@@ -1,0 +1,25 @@
+print(
+    str(
+        str(
+            str(
+                str(
+                    str(
+                        str(
+                            str(
+                                str(
+                                    str(
+                                        str(
+                                            str(
+                                                "Hello"
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    )
+                )
+            )
+        )
+    )
+)
